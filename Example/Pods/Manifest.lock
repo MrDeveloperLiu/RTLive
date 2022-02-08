@@ -1,0 +1,16 @@
+PODS:
+  - RTLive (0.1.0)
+
+DEPENDENCIES:
+  - RTLive (from `../`)
+
+EXTERNAL SOURCES:
+  RTLive:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RTLive: b6b39c903a9963a34f75d557dba2f3498bf2c90c
+
+PODFILE CHECKSUM: e0474e4b72415ae0e084784cc36a1ca9349793fc
+
+COCOAPODS: 1.11.2

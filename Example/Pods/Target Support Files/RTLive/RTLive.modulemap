@@ -1,0 +1,6 @@
+framework module RTLive {
+  umbrella header "RTLive-umbrella.h"
+
+  export *
+  module * { export * }
+}

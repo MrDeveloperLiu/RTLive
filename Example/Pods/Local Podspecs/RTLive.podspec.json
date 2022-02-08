@@ -1,0 +1,22 @@
+{
+  "name": "RTLive",
+  "version": "0.1.0",
+  "summary": "A short description of RTLive.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/刘杨/RTLive",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "刘杨": "164182408@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/刘杨/RTLive.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "RTLive/Classes/**/*"
+}
