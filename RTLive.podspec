@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = 'RTLive description'
 
-  s.homepage         = 'https://github.com/MrDeveloperLiu/PirvateSdk'
+  s.homepage         = 'https://github.com/MrDeveloperLiu/RTLive'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '刘杨' => '164182408@qq.com' }
-  s.source           = { :git => 'https://github.com/MrDeveloperLiu/RTLive.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:MrDeveloperLiu/RTLive.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

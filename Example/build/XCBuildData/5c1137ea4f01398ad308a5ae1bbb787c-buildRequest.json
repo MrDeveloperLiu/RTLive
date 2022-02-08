@@ -1,0 +1,52 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98a1fa9512aee9736d15b7f8a6241e9c6a"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9828b0dde838886d260c24c06b1eb0e937"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e982c1733423363303761bea5a8f66fecca"
+    }
+  ],
+  "containerPath" : "/Users/liuyang/.cocoapods/repos/rtlive/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/liuyang/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/liuyang/Library/Developer/Xcode/DerivedData/Pods-colkkkpxozrvcxcgfcjuiivtseqc/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/liuyang/Library/Developer/Xcode/DerivedData/Pods-colkkkpxozrvcxcgfcjuiivtseqc/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
