@@ -10,7 +10,7 @@ public struct RTStruct {
         testing()
     }
     
-    public static func somethingTest() {
+    public static func fuckingTest() {
         testing()
     }
 }
