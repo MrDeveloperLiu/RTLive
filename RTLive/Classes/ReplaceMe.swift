@@ -6,4 +6,7 @@ public struct RTStruct {
         print("RTStruct - testing")
     }
     
+    public static func doingTest() {
+        testing()
+    }
 }
