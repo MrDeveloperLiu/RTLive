@@ -9,4 +9,8 @@ public struct RTStruct {
     public static func doingTest() {
         testing()
     }
+    
+    public static func fuckingTest() {
+        testing()
+    }
 }
